@@ -1,0 +1,7 @@
+anthropic
+httpx
+beautifulsoup4
+python-dotenv
+rich
+tavily-python
+pytest
